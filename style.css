@@ -1,0 +1,22 @@
+#footer{
+    position:absolute;
+    bottom: 0;
+    text-align: center;
+    width:100%;
+    background-color:mediumspringgreen;
+    color:black;
+}
+
+.heading{
+background-color:mediumseagreen;
+color:black;
+font-size:20px;
+margin-top: 0px;
+padding:10px;
+box-shadow:5px 5px 10px mediumturquoise;
+}
+
+.heading2{
+    font-size:15px;
+    color:rgb(79, 55, 55);
+}
